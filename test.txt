@@ -1,0 +1,2 @@
+Hello, I am using VIM. 
+I am learning git and github.
